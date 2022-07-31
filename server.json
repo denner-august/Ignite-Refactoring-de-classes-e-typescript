@@ -18,9 +18,9 @@
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "moda italiana",
+      "name": "moda Italiana",
       "price": "50.10",
-      "description": "teste",
+      "description": "testando component",
       "available": false,
       "id": 3
     }

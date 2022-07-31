@@ -15,7 +15,7 @@ type foodProps = {
 type editFood = {
   isOpen: boolean;
   setIsOpen: () => void;
-  editingFood: () => void;
+  editingFood?: { id?: string | number };
   handleUpdateFood: (data: foodProps) => void;
 };
 
