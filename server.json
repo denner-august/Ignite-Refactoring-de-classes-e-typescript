@@ -23,14 +23,6 @@
       "description": "testando component",
       "available": false,
       "id": 3
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "teste",
-      "price": "54.40",
-      "description": "teste",
-      "available": true,
-      "id": 4
     }
   ]
 }
